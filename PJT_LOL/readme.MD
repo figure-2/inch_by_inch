@@ -39,7 +39,7 @@ riot api로 부터 데이터 로드를 직접해보고, 승리와 관련된 지�
 
 # 2023-11-09 회의
 
-![Alt text](image.png)
+![Alt text](./image/image.png)
 분류된 피처 카테고리를 인당 1~2개씩 골라가서 칼럼 정제(뭐 뽑을지 선택, 전부 다 or 아예 안 뽑는 것까지 고려)
 카테고리 내의 피처간 연관
 다른 카테고리들과의 연관성
@@ -48,10 +48,10 @@ riot api로 부터 데이터 로드를 직접해보고, 승리와 관련된 지�
 기타 이상치 정제방안(ex, 초장시간 게임, 8만이 넘는 딜량 등등)
 기타 특이사항 EDA(특정 챔프에는 이 피처가 승패 연관성이 굉장히 높더라 등등)
 
-![Alt text](image-1.png)
+![Alt text](./image/image-1.png)
 현재 남은 카테고리
 
 참고사항
-![Alt text](image-2.png)
-![Alt text](image-3.png)
+![Alt text](./image/image-2.png)
+![Alt text](./image/image-3.png)
 Correlation heatmap, correlation matrix, VIF, linear_regression(or sigmoid) 이후 기울기 산정 등 활용
