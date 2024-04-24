@@ -1,15 +1,17 @@
 # Inch by inch
 
-> **Algorithm**
+### 1. **TIL**
 
-- Programmers
+### 2. **Algorithm**
 
-  - Python
-  - SQL
+> Programmers
 
-- Swea
+- Python
+- SQL
 
-> **Dacon**
+> Swea
+
+### **Dacon**
 
 - 고객대출등급분류
 - 법원판결예측
@@ -18,7 +20,7 @@
 - 추석맞이
 - 흡연
 
-> **Study**
+### **Study**
 
 - DA (Data Analysis)
 - DL (Deep Learning)
