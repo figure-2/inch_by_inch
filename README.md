@@ -2,6 +2,8 @@
 
 ### 1. **TIL**
 
+- 멀티캠퍼스 데이터 분석 & 엔지니어 과정
+
 ### 2. **Algorithm**
 
 > Programmers
