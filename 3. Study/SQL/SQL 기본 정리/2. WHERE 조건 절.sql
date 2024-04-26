@@ -119,3 +119,28 @@ ex) A 테이블에서 ㄱ 이 ㄴ을 초과하면서(AND) ㄷ 이 ㄹ이거나(O
   SELECT *
   FROM A
   WHERE ㄱ > ㄴ AND ㄷ = 'ㄹ' OR ㄷ = 'ㅁ'; -- OR 앞, 뒤 조건중 하나만 만족해도 됨
+
+
+  부정 연산자의 종류
+  구분      ||      연산자           ||    의미
+            ||        !=            || 같지 않다
+  부정비교   ||        <>           ||  같지 않다(ISO 표준)
+            ||    NOT 열 이름 =     ||  ~와 같지 않다
+            ||    NOT 열 이름 >     ||  ~보다 크지 않다
+            || NOT BETWEEN a AND b  ||  a와 b 사이에 값이 없다
+  부정 SQL  || NOT IN (list)        ||  list 값과 일치하지 않는다
+            || IS NOT NULL          ||  null 값을 갖지 않는다
+
+ex) A 테이블에서 ㄱ 이 ㄴ이 아닌 것을 출력하시오
+  SELECT *
+  FROM A
+  WHERE ㄱ <> ㄴ;
+
+ex) A 테이블에서 ㄱ 이 null 값이 아닌것을 출력하시오
+  SELECT *
+  FROM A
+  WHERE ㄱ IS NOT NULL -- IS NOT NULL null 값이 아닌 경우
+
+
+
+
