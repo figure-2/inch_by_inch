@@ -1,10 +1,14 @@
 # Inch by inch
 
-### 1. **TIL**
+### 1. **TIL multicampus**
 
 - 멀티캠퍼스 데이터 분석 & 엔지니어 과정
 
-### 2. **Algorithm**
+### 2. **TIL upstage AI Agent **
+
+- upstage AI_Agent 서비스 과정
+
+### 3. **Algorithm 코테 준비**
 
 > Programmers
 
@@ -12,8 +16,9 @@
 - SQL
 
 > Swea
+- Python
 
-### **Dacon**
+### 4. **Dacon**
 
 - 고객대출등급분류
 - 법원판결예측
@@ -22,7 +27,7 @@
 - 추석맞이
 - 흡연
 
-### **Study**
+### **Study : 예제 실습**
 
 - DA (Data Analysis)
 - DL (Deep Learning)
