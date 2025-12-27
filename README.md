@@ -2,7 +2,12 @@
 
 ### 1. **TIL multicampus**
 
-- 멀티캠퍼스 데이터 분석 & 엔지니어 과정
+- 멀티캠퍼스 데이터 분석 & 엔지니어 과정 [23.07.24 ~ 24.01.05]
+
+### 2. **Study : 개념 정리 및 실습**
+
+- 2.1 AI_개념_정리
+- 2.2 RAG (Retrieval Augmented Generation)
 
 ### 2. **TIL upstage AI Agent**
 
@@ -26,13 +31,3 @@
 - 제주 특산물 가격 예측 AI 경진대회
 - 추석맞이
 - 흡연
-
-### **Study : 예제 실습**
-
-- DA (Data Analysis)
-- DL (Deep Learning)
-- ML (Machine learning)
-- NLP(Natural Language Processing)
-- Python
-- SQL
-- Tableau
