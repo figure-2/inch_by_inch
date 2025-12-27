@@ -4,10 +4,12 @@
 
 - 멀티캠퍼스 데이터 분석 & 엔지니어 과정 [23.07.24 ~ 24.01.05]
 
-### 2. **Study : 개념 정리 및 실습**
+### 2. **Study : IT 개념 및 실습**
 
 - 2.1 AI_개념_정리
 - 2.2 RAG (Retrieval Augmented Generation)
+- 2.3 LLM 
+- 2.4 AI_Agent
 
 ### 2. **TIL upstage AI Agent**
 
