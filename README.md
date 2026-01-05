@@ -3,6 +3,8 @@
 ### 1. [**TIL multicampus**](https://github.com/figure-2/TIL_Multicampus)
 
 - 멀티캠퍼스 데이터 분석 & 엔지니어 과정 [23.07.24 ~ 24.01.05]
+    - [수업 내용 필기](https://github.com/figure-2/TIL_Multicampus/blob/master/README_Study.md)
+    - [수업 내용 복습](https://github.com/figure-2/TIL_Multicampus/blob/master/README_Review.md)
 
 ### 2. [**Algorithm 코딩 테스트 준비**](https://github.com/figure-2/Algorithm)
 
