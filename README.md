@@ -1,21 +1,10 @@
 # Inch by inch
 
-### 1. **TIL multicampus**
+### 1. [**TIL multicampus**](https://github.com/figure-2/TIL_Multicampus)
 
 - 멀티캠퍼스 데이터 분석 & 엔지니어 과정 [23.07.24 ~ 24.01.05]
 
-### 2. **Study : IT 개념 및 실습**
-
-- 2.1 AI_개념_정리
-- 2.2 RAG (Retrieval Augmented Generation)
-- 2.3 LLM 
-- 2.4 AI_Agent
-
-### 2. **TIL upstage AI Agent**
-
-- upstage AI_Agent 서비스 과정
-
-### 3. **Algorithm 코테 준비**
+### 2. [**Algorithm 코테 준비**](https://github.com/figure-2/Algorithm)
 
 > Programmers
 
@@ -25,7 +14,7 @@
 > Swea
 - Python
 
-### 4. **Dacon**
+### 3. [**Dacon**]()
 
 - 고객대출등급분류
 - 법원판결예측
