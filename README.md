@@ -4,7 +4,7 @@
 
 - 멀티캠퍼스 데이터 분석 & 엔지니어 과정 [23.07.24 ~ 24.01.05]
 
-### 2. [**Algorithm 코테 준비**](https://github.com/figure-2/Algorithm)
+### 2. [**Algorithm 코딩 테스트 준비**](https://github.com/figure-2/Algorithm)
 
 > Programmers
 
